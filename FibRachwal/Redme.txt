@@ -1,0 +1,15 @@
+
+Readme
+
+Aby uruchomic program w katalogu glownym wpisz w konsoli 
+ 
+    W wersji developerskiej
+  
+       "docker-compose -f docker-compose.dev.yml up --build"
+     
+       W wersji produkcyjnej
+        
+         docker-compose up -d
+  
+       Projekt powstal na podstawie plikow z lab9 
+
